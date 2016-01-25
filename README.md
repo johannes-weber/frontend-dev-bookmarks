@@ -82,6 +82,7 @@
 	 + [CDNify](https://itunes.apple.com/us/podcast/cdnify/id786191888?mt=2) The CDNify podcast covers all things tech, startup, web performance and acceleration.
 	 + [The Non Breaking Space Show](http://goodstuff.fm/nbsp)
 + Weekly & Daily Resources
+    + [ES.next News](http://esnextnews.com/)
     + [HTML5 Weekly](http://html5weekly.com/)
     + [HTML5 Bookmarks](http://html5bookmarks.com/)
     + [CSS Weekly](http://css-weekly.com/)
